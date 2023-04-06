@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on projects involving numerical modelling of physical systems, mostly at astrophysical or nuclear scales
 - 📫 You can reach me at ajbiffl219@gmail.com
 
+Profile picture from [Symmetry Magazine](https://www.symmetrymagazine.org/article/november-2012/how-to-make-a-neutrino-beam)
+
 <!---
 ajbiffl219/ajbiffl219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
